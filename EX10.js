@@ -12,5 +12,5 @@ else if (card1+card2+card3 > 21)
 }
 else if (card1+card2+card3 < 21)
 {
-alert("The Total is:" +card1+card2+card3)
+alert("The Total is:" +(card1+card2+card3))
 }
